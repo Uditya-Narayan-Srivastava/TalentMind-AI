@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "TalentMind-AI-1",
+			"path": "."
+		},
+		{
+			"name": "TalentMind-AI",
+			"path": "../TalentMind-AI"
+		}
+	],
+	"settings": {}
+}
